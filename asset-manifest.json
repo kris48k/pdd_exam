@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/pdd-exam/static/css/main.981f7211.chunk.css",
-    "main.js": "/pdd-exam/static/js/main.dc7b36c4.chunk.js",
-    "main.js.map": "/pdd-exam/static/js/main.dc7b36c4.chunk.js.map",
-    "runtime-main.js": "/pdd-exam/static/js/runtime-main.a8472144.js",
-    "runtime-main.js.map": "/pdd-exam/static/js/runtime-main.a8472144.js.map",
-    "static/css/2.4fc5a6bc.chunk.css": "/pdd-exam/static/css/2.4fc5a6bc.chunk.css",
-    "static/js/2.4220de5a.chunk.js": "/pdd-exam/static/js/2.4220de5a.chunk.js",
-    "static/js/2.4220de5a.chunk.js.map": "/pdd-exam/static/js/2.4220de5a.chunk.js.map",
-    "index.html": "/pdd-exam/index.html",
-    "precache-manifest.9292db93f5df7d5d533c1f8a64a14d75.js": "/pdd-exam/precache-manifest.9292db93f5df7d5d533c1f8a64a14d75.js",
-    "service-worker.js": "/pdd-exam/service-worker.js",
-    "static/css/2.4fc5a6bc.chunk.css.map": "/pdd-exam/static/css/2.4fc5a6bc.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/pdd-exam/static/css/main.981f7211.chunk.css.map",
-    "static/js/2.4220de5a.chunk.js.LICENSE.txt": "/pdd-exam/static/js/2.4220de5a.chunk.js.LICENSE.txt",
-    "static/media/persik.png": "/pdd-exam/static/media/persik.4e1ec840.png"
+    "main.css": "/pdd_exam/static/css/main.981f7211.chunk.css",
+    "main.js": "/pdd_exam/static/js/main.dc7b36c4.chunk.js",
+    "main.js.map": "/pdd_exam/static/js/main.dc7b36c4.chunk.js.map",
+    "runtime-main.js": "/pdd_exam/static/js/runtime-main.522d500f.js",
+    "runtime-main.js.map": "/pdd_exam/static/js/runtime-main.522d500f.js.map",
+    "static/css/2.4fc5a6bc.chunk.css": "/pdd_exam/static/css/2.4fc5a6bc.chunk.css",
+    "static/js/2.dc7d152a.chunk.js": "/pdd_exam/static/js/2.dc7d152a.chunk.js",
+    "static/js/2.dc7d152a.chunk.js.map": "/pdd_exam/static/js/2.dc7d152a.chunk.js.map",
+    "index.html": "/pdd_exam/index.html",
+    "precache-manifest.6972934c73bd3c5600a1448b0313edcf.js": "/pdd_exam/precache-manifest.6972934c73bd3c5600a1448b0313edcf.js",
+    "service-worker.js": "/pdd_exam/service-worker.js",
+    "static/css/2.4fc5a6bc.chunk.css.map": "/pdd_exam/static/css/2.4fc5a6bc.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/pdd_exam/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.dc7d152a.chunk.js.LICENSE.txt": "/pdd_exam/static/js/2.dc7d152a.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/pdd_exam/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8472144.js",
+    "static/js/runtime-main.522d500f.js",
     "static/css/2.4fc5a6bc.chunk.css",
-    "static/js/2.4220de5a.chunk.js",
+    "static/js/2.dc7d152a.chunk.js",
     "static/css/main.981f7211.chunk.css",
     "static/js/main.dc7b36c4.chunk.js"
   ]
