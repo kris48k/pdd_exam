@@ -1,0 +1,1 @@
+{"version":3,"sources":["Question.css"],"names":[],"mappings":"AAAA,sBACI,aAAc,CACd,SAAU,CACV,eAAgB,CAChB,gBACF,CAEA,qBACE,UACF","file":"main.d667050e.chunk.css","sourcesContent":[".question-img {\n    display: block;\n    width: 30%;\n    max-width: 240px;\n    margin: 20px auto;\n  }\n  \n  .question-answer-btn {\n    width: 100%;\n  }"]}
